@@ -1,0 +1,43 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20210227150249
+Username: DESKTOP-5VJ9A66\sm289
+RunAs User: DESKTOP-5VJ9A66\sm289
+Configuration Name: 
+Machine: DESKTOP-5VJ9A66 (Microsoft Windows NT 10.0.19042.0)
+Host Application: C:\Windows\Sysnative\WindowsPowerShell\v1.0\powershell.exe -NoExit -Command & { Import-Module $env:VSAPPIDDIR\..\Tools\Microsoft.VisualStudio.DevShell.dll}; Enter-VsDevShell -SkipAutomaticLocation -SetDefaultWindowTitle -InstallPath $env:VSAPPIDDIR\..\..\
+Process ID: 8504
+PSVersion: 5.1.19041.610
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.19041.610
+BuildVersion: 10.0.19041.610
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is ./TestResults.txt
+PS C:\Users\sm289\source\repos\StudentDB>  .\bin\Debug\StudentDB.exe
+Computer Science
+StudentDB.GradStudent
+Bob
+Bradshaw
+3.9
+bbradshaw@uw.edu
+2/11/2021 9:15:57 AM
+22222.99
+Dr. Matt Tolentino
+StudentDB.Undergrad
+Carlos
+Castaneda
+3.8
+ccastaneda@uw.edu
+2/11/2021 9:15:57 AM
+Junior
+Biology
+Done writing data - file has been closed.
+PS C:\Users\sm289\source\repos\StudentDB> Stop-Transcript
+**********************
+Windows PowerShell transcript end
+End time: 20210227150301
+**********************

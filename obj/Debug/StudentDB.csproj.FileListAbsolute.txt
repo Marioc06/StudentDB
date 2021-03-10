@@ -1,0 +1,12 @@
+C:\Users\sm289\source\repos\StudentDB\bin\Debug\StudentDB.exe.config
+C:\Users\sm289\source\repos\StudentDB\bin\Debug\StudentDB.exe
+C:\Users\sm289\source\repos\StudentDB\bin\Debug\StudentDB.pdb
+C:\Users\sm289\source\repos\StudentDB\obj\Debug\StudentDB.csproj.CoreCompileInputs.cache
+C:\Users\sm289\source\repos\StudentDB\obj\Debug\StudentDB.exe
+C:\Users\sm289\source\repos\StudentDB\obj\Debug\StudentDB.pdb
+C:\Users\sm289\Desktop\StudentDB\bin\Debug\StudentDB.exe.config
+C:\Users\sm289\Desktop\StudentDB\bin\Debug\StudentDB.exe
+C:\Users\sm289\Desktop\StudentDB\obj\Debug\StudentDB.csproj.CoreCompileInputs.cache
+C:\Users\sm289\Desktop\StudentDB\obj\Debug\StudentDB.exe
+C:\Users\sm289\Desktop\StudentDB\obj\Debug\StudentDB.pdb
+C:\Users\sm289\Desktop\StudentDB\bin\Debug\StudentDB.pdb
